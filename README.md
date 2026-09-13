@@ -1,11 +1,12 @@
-# visualizacao-de-dados
-# Projeto de Visualização de Dados
+# Projeto de Parceria Semantix - Análise de Risco de Crédito
 
-## Coleta de Dados
-Descreva brevemente de onde os dados foram extraídos (ex: arquivos CSV, APIs, fontes externas) e como foi feito o processo de limpeza/tratamento inicial.
+## Visão Geral do Projeto
+Este repositório contém a solução desenvolvida para o desafio da Parceria Semantix. O projeto aborda a problemática do risco de crédito e da inadimplência financeira por meio de engenharia de dados, análise exploratória (EDA) e construção de dashboards analíticos interativos.
 
-## Modelagem
-Explique a estrutura dos dados, os relacionamentos criados (se houver), as principais métricas/medidas calculadas e os tipos de gráficos escolhidos para a visualização.
-
-## Conclusões
-Apresente os principais insights obtidos a partir das visualizações, destacando os resultados e pontos relevantes encontrados na análise.
+## Estrutura do Repositório
+```text
+├── scripts/
+│   └── eda_pipeline.py               # Pipeline Python de limpeza e tratamento
+├── docs/
+│   └── Relatorio_Tecnico_Semantix.pdf # Documentação completa do projeto
+└── README.md                         # Guia e documentação do repositório
